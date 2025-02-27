@@ -1,9 +1,9 @@
-package com.technologies.communication.productservice.processor;
+package com.technologies.communication.productservice.processors;
 
-import com.technologies.communication.productservice.entity.OrderEvent;
-import com.technologies.communication.productservice.entity.ProductEvent;
-import com.technologies.communication.productservice.entity.ProductStatus;
-import com.technologies.communication.productservice.repository.ProductRepository;
+import com.technologies.communication.productservice.models.OrderEvent;
+import com.technologies.communication.productservice.models.ProductEvent;
+import com.technologies.communication.productservice.models.ProductStatus;
+import com.technologies.communication.productservice.repositories.ProductRepository;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

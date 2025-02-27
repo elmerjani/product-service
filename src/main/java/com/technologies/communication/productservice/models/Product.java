@@ -1,4 +1,4 @@
-package com.technologies.communication.productservice.entity;
+package com.technologies.communication.productservice.models;
 
 import jakarta.persistence.*;
 import lombok.*;

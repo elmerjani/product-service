@@ -1,6 +1,6 @@
 package com.technologies.communication.productservice.services;
 
-import com.technologies.communication.productservice.repository.ProductRepository;
+import com.technologies.communication.productservice.repositories.ProductRepository;
 import io.grpc.stub.StreamObserver;
 import org.springframework.grpc.sample.proto.ProductRequest;
 import org.springframework.grpc.sample.proto.ProductResponse;

@@ -1,4 +1,4 @@
-package com.technologies.communication.productservice.entity;
+package com.technologies.communication.productservice.models;
 
 /**
  * @author : El-Merjani Mohamed

@@ -1,6 +1,6 @@
-package com.technologies.communication.productservice.repository;
+package com.technologies.communication.productservice.repositories;
 
-import com.technologies.communication.productservice.entity.Product;
+import com.technologies.communication.productservice.models.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
