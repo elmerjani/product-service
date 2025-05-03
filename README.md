@@ -1,7 +1,7 @@
 # Product Service
 
 ## Description
-The **Product Service** manages product data and stock levels. It receives order requests from the (**Order Service**)[https://github.com/elmerjani/order-service], verifies availability, and updates stock accordingly.
+The **Product Service** manages product data and stock levels. It receives order requests from the **(Order Service)[https://github.com/elmerjani/order-service]**, verifies availability, and updates stock accordingly.
 
 ## Features
 - Provides product details via gRPC.
